@@ -1,0 +1,14 @@
+export {default as Admin} from "./Admin";
+export {default as Users} from "./Users";
+export {default as Basket} from "./Basket";
+export {default as Slides} from "./Slides";
+export {default as Categories} from "./Categories";
+export {default as Products} from "./Products";
+export {default as News} from "./News";
+export {default as Map} from "./Map";
+export {default as MapImages} from "./MapImages";
+export {default as ProdCatRel} from "./ProdCatRel";
+export {default as PaymentTypes} from "./PaymentTypes";
+export {default as Orders} from "./Orders";
+export {default as TempOrders} from "./TempOrders";
+export {default as OrderRel} from "./OrderRel";
